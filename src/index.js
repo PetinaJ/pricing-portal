@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import PricingPortalApp from '../pricing-portal-app';
+import PricingPortalApp from './pricing-portal-app';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
